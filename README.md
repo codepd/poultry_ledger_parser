@@ -8,7 +8,7 @@ This project parses a poultry ledger file (may_2025.txt) and groups items by:
 ## Usage
 1. Run the Go program:
    ```sh
-   go run main.go may_2025.txt
+   go run main.go <text-file-name>
    ```
 
 ## Output
